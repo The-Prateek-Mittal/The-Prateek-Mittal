@@ -1,12 +1,13 @@
+
 <div align="center">
 
 # Hey, I'm Prateek 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Embedded+Systems+Engineer+%40+Daloft+Aerospace;B.Tech+Computing+%26+Data+Science+%7C+Sai+University;I+build+secure+firmware%2C+ML+systems+%26+real-time+apps;Bridging+tech+%26+business)](https://github.com/The-Prateek-Mittal)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-mittal-75278b206)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekmittal019@gmail.com)
-![Location](https://img.shields.io/badge/Chennai-India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/prateek-mittal-75278b206)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:prateekmittal019@gmail.com)
+![Location](https://img.shields.io/badge/Chennai-India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)
 
 </div>
 
@@ -46,35 +47,39 @@
 ## 🧰 Tech stack
 
 **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=58A6FF)
+![R](https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=58A6FF)
+![Julia](https://img.shields.io/badge/Julia-0D1117?style=flat-square&logo=julia&logoColor=58A6FF)
 
 **Embedded & Robotics**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-FF0000?style=flat-square)
-![PX4](https://img.shields.io/badge/PX4-1B1B1B?style=flat-square)
+
+![STM32](https://img.shields.io/badge/STM32-0D1117?style=flat-square&logo=stmicroelectronics&logoColor=58A6FF)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=58A6FF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=58A6FF)
+![ROS2](https://img.shields.io/badge/ROS2-0D1117?style=flat-square&logo=ros&logoColor=58A6FF)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-0D1117?style=flat-square&logoColor=58A6FF)
+![PX4](https://img.shields.io/badge/PX4-0D1117?style=flat-square&logoColor=58A6FF)
 
 **ML & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=58A6FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=58A6FF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=58A6FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF)
 
 **Web & DevOps**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=58A6FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF)
 
 ---
 
@@ -82,8 +87,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=The-Prateek-Mittal&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Prateek-Mittal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=The-Prateek-Mittal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Prateek-Mittal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -95,6 +101,6 @@ I'm open to **embedded, ML/MLOps and tech-business roles**, and to collaboration
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=The-Prateek-Mittal&style=flat-square&color=58a6ff)
+![Profile views](https://komarev.com/ghpvc/?username=The-Prateek-Mittal&style=flat-square&color=0D1117&label_color=161B22)
 
 </div>
